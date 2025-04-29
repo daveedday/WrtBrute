@@ -6,5 +6,5 @@
 <p>• custom time for more specific results.</p>
 
 <h1>Shodan Dork</h1>
-http.title:"OpenWrt" 
+http.title:"OpenWrt" <br>
 http.html:"/cgi-bin/luci" 
