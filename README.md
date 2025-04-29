@@ -4,3 +4,7 @@
 <p>• Rate limiting (to avoid detection)</p>
 <p>• username and password bruteforce</p>
 <p>• custom time for more specific results.</p>
+
+<h1>Shodan Dork</h1>
+http.title:"OpenWrt" 
+http.html:"/cgi-bin/luci" 
